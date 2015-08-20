@@ -4,5 +4,5 @@ using namespace std;
 int main()
 {
   cout<<"esdl";
-  return 0;
+  cout<<"hello"/n;
 }
